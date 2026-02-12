@@ -38,7 +38,7 @@ The project is set up with:
    - Test all endpoints manually
    - Verify data flows correctly through all layers
 
-### Phase 2: Core Requirements (2-3 hours)
+### Phase 2: Core Requirements (1-1.5 hours)
 
 #### 2.1 Add User Creation Endpoint (Required)
 
@@ -116,7 +116,7 @@ The project is set up with:
 - Logs are readable and informative
 - Error logs include relevant context
 
-### Phase 3: Advanced Requirements (2-3 hours)
+### Phase 3: Advanced Requirements (1-1.5 hours)
 
 #### 3.1 Add Data Persistence (Optional but Recommended)
 
